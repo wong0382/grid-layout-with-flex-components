@@ -3,6 +3,7 @@ html{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
+
 .emojis{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -17,7 +18,7 @@ html{
     margin: 20px;
 }
 
-/* content of emoji card */
+/* content in emoji card */
 .emoji{
     display: flex;
     flex-direction: column;
